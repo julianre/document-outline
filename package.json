@@ -14,7 +14,7 @@
     "asciidoc",
     "atom-ide"
   ],
-  "repository": "https://github.com/mangecoeur/document-outline",
+  "repository": "https://github.com/julianre/document-outline",
   "license": "GPL-3.0",
   "engines": {
     "atom": ">=1.22.0 <2.0.0"
